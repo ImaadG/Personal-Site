@@ -1,0 +1,35 @@
+/* HTML TAGS */
+
+body {
+    background-color: rgb(236, 124, 124);
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* HEADINGS */
+
+.big-heading {
+    
+}
+
+/* CONTAINERS */
+
+.container-fluid {
+    padding: 7% 15%;
+}
+
+/* CLASSES */
+
+.body-text {
+    text-align: left;
+}
+
+.side-bar {
+    position: fixed;
+    left: 90%;
+    top: 70%
+}
+
+.social-icons {
+    margin-top: 10%;
+}
+
