@@ -1,3 +1,4 @@
 # Personal-Site
+Beta version of my website
 
-TO-DO: Import icons from respective websites
+Link to preview: https://htmlpreview.github.io/?https://github.com/ImaadG/Personal-Site/blob/master/index.html
